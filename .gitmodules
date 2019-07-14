@@ -1,0 +1,6 @@
+[submodule "newsflash-frontend"]
+	path = newsflash-frontend
+	url = https://github.com/smaraghi/newsflash-frontend.git
+[submodule "newsflash-backend"]
+	path = newsflash-backend
+	url = https://github.com/smaraghi/newsflash-backend.git
